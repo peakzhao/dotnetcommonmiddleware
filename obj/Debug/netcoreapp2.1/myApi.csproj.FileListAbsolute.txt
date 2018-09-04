@@ -1,0 +1,14 @@
+G:\Dotnet Core\TestApi\bin\Debug\netcoreapp2.1\myApi.deps.json
+G:\Dotnet Core\TestApi\bin\Debug\netcoreapp2.1\myApi.runtimeconfig.json
+G:\Dotnet Core\TestApi\bin\Debug\netcoreapp2.1\myApi.runtimeconfig.dev.json
+G:\Dotnet Core\TestApi\bin\Debug\netcoreapp2.1\myApi.dll
+G:\Dotnet Core\TestApi\bin\Debug\netcoreapp2.1\myApi.pdb
+G:\Dotnet Core\TestApi\obj\Debug\netcoreapp2.1\myApi.csprojAssemblyReference.cache
+G:\Dotnet Core\TestApi\obj\Debug\netcoreapp2.1\myApi.csproj.CoreCompileInputs.cache
+G:\Dotnet Core\TestApi\obj\Debug\netcoreapp2.1\myApi.RazorAssemblyInfo.cache
+G:\Dotnet Core\TestApi\obj\Debug\netcoreapp2.1\myApi.RazorAssemblyInfo.cs
+G:\Dotnet Core\TestApi\obj\Debug\netcoreapp2.1\myApi.AssemblyInfoInputs.cache
+G:\Dotnet Core\TestApi\obj\Debug\netcoreapp2.1\myApi.AssemblyInfo.cs
+G:\Dotnet Core\TestApi\obj\Debug\netcoreapp2.1\myApi.RazorTargetAssemblyInfo.cache
+G:\Dotnet Core\TestApi\obj\Debug\netcoreapp2.1\myApi.dll
+G:\Dotnet Core\TestApi\obj\Debug\netcoreapp2.1\myApi.pdb
